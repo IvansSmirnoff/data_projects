@@ -1,8 +1,8 @@
-# data_projects
+# data_projects to show and brag about
 
 Notebooks of data science projects that I have done during studying. Some kind of portfolio. Only notebooks with completed works, no data included due to intellectual property restrictions.
 
-Done in Jupiter notebook with python version 3.7.3
+_Language in which the project has been performed is specified in a separate column
 
 ## Bank_credit_scoring: only pandas, only EDA
 
@@ -15,3 +15,14 @@ Done in Jupiter notebook with python version 3.7.3
 ## Perspective_Telecom_tariff: pandas, scipy, numpy
 
 ## sMAPE_gold_ML: pandas, seaborn, sklearn, numpy, matplotlib
+
+
+|   |   |   |   |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
